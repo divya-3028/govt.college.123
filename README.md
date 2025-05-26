@@ -1,4 +1,4 @@
-# govt.college.123
+My first project
 My first repository
 <br>
 Author-Divya Kushwaha
